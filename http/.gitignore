@@ -1,0 +1,5 @@
+/.gradle
+/.idea
+!/.idea/encodings.xml
+!/.idea/vcs.xml
+*.iml
